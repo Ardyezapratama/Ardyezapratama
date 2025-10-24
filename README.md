@@ -39,9 +39,7 @@ const eza = {
 
 ## Social Media
 
-<p>
-<a href="https://www.facebook.com/profile.php?id=100009688633169&locale=id_ID"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/ezpratt_/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/eza-pratama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ezapratama-portfolio.vercel.app/"><img src="https://img.shields.io/badge/website-%FF3F33.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+- [ezapratama](https://ezapratama-portfolio.vercel.app/)
+- [Instagram](https://www.instagram.com/ezpratt_/)
+- [Linkedin](https://www.linkedin.com/in/eza-pratama/)
+- [Facebook](https://www.facebook.com/profile.php?id=100009688633169&locale=id_ID)
