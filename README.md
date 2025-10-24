@@ -4,11 +4,11 @@
 
 I'm Eza, A 25-year-old self-taught developer with a passion for computer science, especially web development, based in Indonesia.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,next,express&theme=light">
-</p>
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=tailwind,docker,mysql,mongodb,laravel,figma&theme=light">
+<p align="left">
+<a href="https://skillicons.dev"> 
+<img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,next,express,tailwind,docker,mysql,mongodb,laravel,figma&theme=light">
+</a>
+
 </p>
 
 <p>
