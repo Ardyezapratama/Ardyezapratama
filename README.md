@@ -7,7 +7,7 @@ I'm Eza, A 25-year-old self-taught developer with a passion for computer science
 ![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,next,express,tailwind,docker,mysql,mongodb,laravel,figma&theme=light)
 
 <p>
-<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y3NXBhN3Y2NWhjcnNsdG1yZ2h1NHlmbWUyNTBveDQwaDE0NzZ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="350">
+<img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y3NXBhN3Y2NWhjcnNsdG1yZ2h1NHlmbWUyNTBveDQwaDE0NzZ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="320">
 
 ```javascript
 const eza = {
@@ -30,13 +30,13 @@ const eza = {
 
 ```
 
+</p>
+
 ## Contact
 
 <p>
-  <a href="mailto:brunotacca@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100009688633169&locale=id_ID"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ezpratt_/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eza-pratama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
- 
+<a href="mailto:brunotacca@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100009688633169&locale=id_ID"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ezpratt_/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/eza-pratama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
