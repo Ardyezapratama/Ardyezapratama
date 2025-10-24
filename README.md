@@ -4,7 +4,10 @@
 
 I'm Eza, A 25-year-old self-taught developer with a passion for computer science, especially web development, based in Indonesia.
 
-![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,next,express,tailwind,docker,mysql,mongodb,laravel,figma&theme=light)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,html,css,react,nodejs,next,express,tailwind,docker,mysql,mongodb,laravel,figma&theme=light">
+
+</p>
 
 <p>
 <img align="left" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y3NXBhN3Y2NWhjcnNsdG1yZ2h1NHlmbWUyNTBveDQwaDE0NzZ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="320">
@@ -32,7 +35,7 @@ const eza = {
 
 </p>
 
-## Contact
+## Social Media
 
 <p>
 <a href="https://www.facebook.com/profile.php?id=100009688633169&locale=id_ID"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
