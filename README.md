@@ -1,6 +1,6 @@
 ## Hi there!<img src="https://media.tenor.com/tW0b0wDTNBMAAAAj/bhago-bhago-re-baba.gif" width="60">
 
-#### :space_invader: About me
+### :space_invader: About me
 
 I'm Eza, A 25-year-old self-taught developer with a passion for computer science, especially web development, based in Indonesia.
 
@@ -35,7 +35,6 @@ const eza = {
 ## Contact
 
 <p>
-<a href="mailto:brunotacca@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100009688633169&locale=id_ID"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/ezpratt_/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/eza-pratama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
