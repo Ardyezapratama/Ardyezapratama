@@ -1,4 +1,4 @@
-## Hi there!<img src="https://media.tenor.com/tW0b0wDTNBMAAAAj/bhago-bhago-re-baba.gif" width="60">
+## Hi there! 👋
 
 ### :space_invader: About me
 
