@@ -12,7 +12,7 @@ I'm Eza, A 25-year-old self-taught developer with a passion for computer science
 </p>
 
 <p>
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNnczFxeThocGplczdiaWpoZmFldTYwdWt3ZXhqNG16aGE2aDVxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" width="320">
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNnczFxeThocGplczdiaWpoZmFldTYwdWt3ZXhqNG16aGE2aDVxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif" width="325">
 
 ```javascript
 const eza = {
