@@ -6,7 +6,7 @@ I'm Eza, A 25-year-old self-taught developer with a passion for computer science
 
 <p align="left">
 <a href="https://skillicons.dev"> 
-<img src="https://skillicons.dev/icons?i=javascript,html,css,php,react,nodejs,next,express,tailwind,docker,mysql,mongodb,laravel,figma&theme=light">
+<img src="https://skillicons.dev/icons?i=javascript,html,css,php,react,nodejs,next,express,tailwind,docker,mysql,mongodb,laravel,figma&theme=dark">
 </a>
 
 </p>
