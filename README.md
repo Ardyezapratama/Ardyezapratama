@@ -23,11 +23,11 @@ const eza = {
             js: ["React", "Next.js"],
             css: ["Tailwindcss", "Bootsrap"]
             library: ["Three.js", "Material UI", "Chakra UI"],
-        }
+        },
         backEnd: {
             js: ["Node", "Express"],
             php: ["Laravel"],
-        }
+        },
         devOps: ["Docker", "GitHub Actions"],
         databases: ["MySQL", "MongoDB"],
     }
